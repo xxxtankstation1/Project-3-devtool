@@ -1,0 +1,11 @@
+D:\the vault\Project programmeertool\obj\Debug\Project programmeertool.csproj.AssemblyReference.cache
+D:\the vault\Project programmeertool\obj\Debug\Project programmeertool.csproj.SuggestedBindingRedirects.cache
+D:\the vault\Project programmeertool\obj\Debug\Project_programmeertool.frmProgrameertool.resources
+D:\the vault\Project programmeertool\obj\Debug\Project_programmeertool.Properties.Resources.resources
+D:\the vault\Project programmeertool\obj\Debug\Project programmeertool.csproj.GenerateResource.cache
+D:\the vault\Project programmeertool\obj\Debug\Project programmeertool.csproj.CoreCompileInputs.cache
+D:\the vault\Project programmeertool\bin\Debug\Project programmeertool.exe.config
+D:\the vault\Project programmeertool\bin\Debug\Project programmeertool.exe
+D:\the vault\Project programmeertool\bin\Debug\Project programmeertool.pdb
+D:\the vault\Project programmeertool\obj\Debug\Project programmeertool.exe
+D:\the vault\Project programmeertool\obj\Debug\Project programmeertool.pdb
