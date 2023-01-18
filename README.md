@@ -1,4 +1,3 @@
 Creates for and while loops.
-3rd project i had to made for school.
-Not the prettiest thing i know but this is the best i could do with what i know.
-Will improve it when i learn more, feedback is welcome.
+3rd project i had to make for school.
+Not the prettiest thing but im still learning and it works ig, give feedback would be cool if you can be bothered.
